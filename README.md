@@ -1,1 +1,1 @@
-# sci-ml
+# Scientific Machine Learning
